@@ -20,11 +20,14 @@
 
 title: jacobpennington
 email: jacob.p.neuro@gmail.com
-description: (WIP) Personal website for advertising my CV, current projects, and possibly other things in the future.
+description: Jacob Pennington is a doctoral student studying computational
+             neuroscience at Washington State University. His research interests
+             include spiking neural networks, sensory encoding in auditory
+             cortex, and neuromorphic hardware.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: jrpenningtonWSU
+github_username:  jacobpennington
 
 # Build settings
 theme: academic
